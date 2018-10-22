@@ -1,0 +1,118 @@
+--2018-10-18 20:25:16--  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Resolving mas-dse-open.s3.amazonaws.com... 52.218.245.42
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66288146 (63M) [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+NY.tgz                9%[>                   ]   5.69M  24.5KB/s    in 8m 38s  
+
+2018-10-18 21:43:05 (11.3 KB/s) - Read error at byte 5971165/66288146 (Success). Retrying.
+
+--2018-10-18 21:43:06--  (try: 2)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 60316981 (58M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 5800K ]
+  5800K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,......... ..........  9%  196  9d11h
+  5850K .......... ....                                         9% 20.2K=4m22s
+
+2018-10-18 22:02:30 (131 B/s) - Read error at byte 6005549/66288146 (Success). Retrying.
+
+--2018-10-18 22:02:32--  (try: 3)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 60282597 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 5850K ]
+  5850K ,,,,,,,,,, ,,,,...... .......... .......... ..........  9% 1.30K 17h53m
+  5900K .......... .......... .......... .......... .           9%  762 =95s
+
+2018-10-18 22:19:10 (833 B/s) - Read error at byte 6084341/66288146 (Success). Retrying.
+
+--2018-10-18 22:19:13--  (try: 4)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 60203805 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 5900K ]
+  5900K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,.........  9% 19.6M 18s
+  5950K .......... .......... .......... .......... ..........  9% 29.5K 28m31s
+  6000K .......... .......... .......... .......... ..........  9% 7.72K 73m51s
+  6050K .......... .......... .......... .......... ..........  9% 1.29K 4h50m
+  6100K .......... .......... .......... .......... ..........  9% 2.08K 5h33m
+  6150K .......... .......... .......... .......... ..........  9%  328  14h17m
+  6200K .......... ...                                          9%  283 =4m37s
+
+2018-10-18 22:38:52 (1005 B/s) - Read error at byte 6363029/66288146 (Success). Retrying.
+
+--2018-10-18 22:38:56--  (try: 5)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59925117 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6200K ]
+  6200K ,,,,,,,,,, ,,,                                          9% 0.00 =0s
+
+2018-10-18 22:54:29 (0.00 B/s) - Read error at byte 6363029/66288146 (Success). Retrying.
+
+--2018-10-18 22:54:34--  (try: 6)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59925117 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6200K ]
+  6200K ,,,,,,,,,, ,,,....... .......... .......... .......     9%  576 =60s
+
+2018-10-18 23:10:37 (576 B/s) - Read error at byte 6397413/66288146 (Success). Retrying.
+
+--2018-10-18 23:10:43--  (try: 7)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59890733 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6200K ]
+  6200K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,...  9% 2.68K 5d0h
+  6250K .......... .......... ..                                9% 6.90M=19s
+
+2018-10-18 23:26:03 (1.36 KB/s) - Read error at byte 6423389/66288146 (Success). Retrying.
+
+--2018-10-18 23:26:10--  (try: 8)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59864757 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6250K ]
+  6250K ,,,,,,,,,, ,,,,,,,,,, ,,........ .......... ..........  9%  212  6d0h
+  6300K ......                                                  9% 1.85K=4m5s
+
+2018-10-18 23:45:24 (140 B/s) - Read error at byte 6457773/66288146 (Success). Retrying.
+
+--2018-10-18 23:45:32--  (try: 9)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59830373 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6300K ]
+  6300K ,,,,,,.... .......... .......... .........              9%  414 =83s
+
+2018-10-19 00:01:58 (414 B/s) - Read error at byte 6492157/66288146 (Success). Retrying.
+
+--2018-10-19 00:02:07--  (try:10)  https://mas-dse-open.s3.amazonaws.com/Weather/by_state/NY.tgz
+Connecting to mas-dse-open.s3.amazonaws.com|52.218.245.42|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 66288146 (63M), 59795989 (57M) remaining [application/x-tar]
+Saving to: ‘/Users/wahah/Course/DSE23X/Data/Weather/NY.tgz’
+
+        [ skipping 6300K ]
+  6300K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,. ..........  9% 17.7K 4h34m
+  6350K .......... .......... ...
