@@ -1,0 +1,25 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work/edx-micro-master-in-data-science/big-data-analytics-using-spark/notebooks/Section4-Classification/XGBoost
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.84ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook XGBoost_Whales.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180731144548 (172.17.0.1) 15.92ms referer=http://localhost:8888/notebooks/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Kernel started: a0ca0884-7cf0-4289-bf3a-efc0131e1127
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a0ca0884-7cf0-4289-bf3a-efc0131e1127
+[NotebookApp | INFO] Saving file at /XGBoost_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost_Whales.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for a0ca0884-7cf0-4289-bf3a-efc0131e1127:b6839ad82714466ca0c40a3dd81c892b
+[NotebookApp | INFO] Kernel shutdown: a0ca0884-7cf0-4289-bf3a-efc0131e1127
+[NotebookApp | WARNING] Notebook XGBoost_Whales.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180731144548 (172.17.0.1) 1.76ms referer=http://localhost:8888/notebooks/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Kernel started: 06fcbff3-a231-4f68-b224-e7083aae1407
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 06fcbff3-a231-4f68-b224-e7083aae1407
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 06fcbff3-a231-4f68-b224-e7083aae1407
