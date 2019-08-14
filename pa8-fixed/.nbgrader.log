@@ -1,0 +1,14 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work/pa8
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.02ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Tensorflow_NeuralNetworks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b33102af-6c29-45ba-8ca4-875f34f517c7
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180725071547 (172.17.0.1) 18.34ms referer=http://localhost:8888/notebooks/Tensorflow_NeuralNetworks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b33102af-6c29-45ba-8ca4-875f34f517c7
+[NotebookApp | INFO] Starting buffering for b33102af-6c29-45ba-8ca4-875f34f517c7:c7c056fce7cd4a2682880fb8401902e4
